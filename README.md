@@ -16,11 +16,15 @@ Dataset size: **2,823 rows × 25 columns**.
 - **Seasonality & Time Trends**: Clear monthly/weekday patterns to align promotions and staffing.
 - **Operational**: Status analysis highlights cancellations/backorders to reduce friction.
 
-## Figures (Quick View)
-![Monthly Revenue](figures/monthly_revenue.png)
-![Pareto Customers](figures/pareto_customers.png)
-![Cohort Retention](figures/cohort_retention.png)
+## Figures
+### Monthly Revenue
+![Monthly Revenue](fig-monthly-revenue.png)
 
+### Pareto Curve – Customers
+![Pareto Curve – Customers](fig-pareto-customers.png)
+
+### Cohort Retention
+![Cohort Retention](fig-cohort-retention.png)
 ## Outputs
 - `outputs/monthly_revenue.csv` — revenue by month/year
 - `outputs/productline_revenue.csv` — revenue by product line
