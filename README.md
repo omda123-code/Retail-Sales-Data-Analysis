@@ -18,13 +18,13 @@ Dataset size: **2,823 rows × 25 columns**.
 
 ## Figures
 ### Monthly Revenue
-![Monthly Revenue](Images/fig_revenue_by_productline.png)
+![Monthly Revenue](Images/fig_monthly_revenue.png)
+
+### ProductLine Revenue
+![ProductLine Revenue](Images/fig_revenue_by_productline.png)
 
 ### Pareto Curve – Customers
 ![Pareto Curve – Customers](Images/fig_pareto_customers.png)
-
-### Cohort Retention
-![Cohort Retention](Images/fig_cohort_retention.png)
 
 ## Outputs
 - `outputs/monthly_revenue.csv` — revenue by month/year
